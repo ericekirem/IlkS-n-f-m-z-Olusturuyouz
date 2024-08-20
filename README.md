@@ -1,1 +1,1 @@
-# IlkSınıfımızıOlusturuyouz
+Pratik - İlk Sınıfımızı Oluşturuyoruz
